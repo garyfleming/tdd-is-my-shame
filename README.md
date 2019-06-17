@@ -1,4 +1,4 @@
-# Talk Title
+# TDD is my Shame
 
 Not quite ready for an abstract yet. The general idea is that, increasingly, people seem uncomfortable doing TDD. They have rarely been taught it by an expert, instead trying to figure it out by themselves. This doesn't go well.
 
