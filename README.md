@@ -16,6 +16,22 @@ Sometimes they don't really know what it is, so they end up treating it in odd w
 
 In this talk, you'll get answers for all of the above and more. You'll understand TDD better, you'll understand how to be more effective, and you'll learn to let go of that little voice that says you should do more.
 
+## Short version
+
+"I don't do as much Test-Driven Development as I should; it's my shame."
+
+The more time I spend at recent development conferences, the more I see this sentiment echoed. Developers get the impression that they *should* do TDD, but they don't.
+
+Messy code? Misunderstandings? Inexperienced? I can help.
+
+In this talk, you'll understand TDD better, how to be more effective, and how to let go of that little voice that says you should do more.
+
+## Key Outcomes
+
+* You'll know when you should be using TDD, and when not.
+* You'll understand what "Driven" really means in this context.
+* You'll see a number of practical tips and techniques to stop your tests becoming unmanageable.
+
 
 # History
 
