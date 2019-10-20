@@ -6,3 +6,4 @@
 * Lots of stuff in this thread (both this and the earliest part being quote tweeted by GeePaw Hill) about developer exceptionalism. An argument I put forward is that devs should be at least as interruptible as other disciplines and a tight red-green-refactor aids that: https://twitter.com/garyfleming/status/1145461742350323712
 * More on Dev Exceptionalism and tight TDD loops: https://twitter.com/garyfleming/status/1144164533549838336
 * Test fixtures: https://twitter.com/marick/status/1172342543490662401
+* Seb on unit tests rarely being written as expected: https://twitter.com/sebrose/status/1184030238931595264
