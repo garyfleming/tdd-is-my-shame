@@ -7,3 +7,5 @@
 * More on Dev Exceptionalism and tight TDD loops: https://twitter.com/garyfleming/status/1144164533549838336
 * Test fixtures: https://twitter.com/marick/status/1172342543490662401
 * Seb on unit tests rarely being written as expected: https://twitter.com/sebrose/status/1184030238931595264
+* Sarah mei on TDD not working for a heterogenous team: https://twitter.com/sarahmei/status/990594488052559874, and https://twitter.com/sarahmei/status/990968833547497472
+* My initial reaction to Sarah Mei's tweets was strong disagreement, because I'd seen them work well in heterogenous groups. But I have to own my own privilege here: I'm privileged, and I need to put more time into seeing it through other lenses. Consider the issues here. -- Practices and power dynamics
