@@ -14,4 +14,6 @@
 * Ron Jeffries. Some overlap wiht above thread https://twitter.com/RonJeffries/status/1208748384963694592
 * Michael Feathers. A set of unit testing rules https://www.artima.com/weblogs/viewpost.jsp?thread=126923
 * Lots on arguments against TDD http://neopragma.com/index.php/2019/09/29/against-tdd/
+* GeePawHill on why writing the tests before (as opposed to after) matters https://twitter.com/GeePawHill/status/1086748964936994816
 * GeePawHill and Cat Swetel on soft vs hard TDD https://twitter.com/GeePawHill/status/1057032359931973632
+* Test Recycling in TDD: http://claysnow.co.uk/recycling-tests-in-tdd/
