@@ -1,5 +1,6 @@
 # Possible TODOs.
 
+* framing. Ritualism? How powerful that is? Maybe use coffee as our opener. It’s not addictive but does cause dependence, and ritualistic but biochemically doesn’t do much at all. -- Maybe not. 
 * Brian Marick on a better style for tests (i.e. don't assert_equal) https://twitter.com/marick/status/1140021311974137857
 * Brian Marick (again) on test data and randomisation being clearer https://twitter.com/marick/status/1140713459988029441
 * Note that randomisation means less predicatable data. That's a good thing. Relationship/meaning is the most important thing. Randomising also means you might find more edge cases that can then be codified. If you'd prefer some predictability, you can always keep the seed constant.
@@ -17,3 +18,5 @@
 * GeePawHill on why writing the tests before (as opposed to after) matters https://twitter.com/GeePawHill/status/1086748964936994816
 * GeePawHill and Cat Swetel on soft vs hard TDD https://twitter.com/GeePawHill/status/1057032359931973632
 * Test Recycling in TDD: http://claysnow.co.uk/recycling-tests-in-tdd/
+* Marco Rogers on watching your test fail: https://twitter.com/polotek/status/1211723875207114752
+* Ron Jeffries on what it feels liek to do TDD: https://twitter.com/RonJeffries/status/1212025850637537281
