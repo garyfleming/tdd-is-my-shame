@@ -26,3 +26,4 @@
 * "Desirable properties of tests": https://twitter.com/GeePawHill/status/1215693091887288321
 * Allen Holub on why TDD isn't testing: https://twitter.com/allenholub/status/1213937824258347008
 * Funny meme https://twitter.com/molly_struve/status/1216075779928395776
+* Jeffries: https://twitter.com/RonJeffries/status/1215625501752090624
