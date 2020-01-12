@@ -22,3 +22,7 @@
 * Ron Jeffries on what it feels liek to do TDD: https://twitter.com/RonJeffries/status/1212025850637537281
 * Thread on whether TDD is a design practice. I like Antony Marcano's answer: https://twitter.com/AntonyMarcano/status/1213421222010277888
 * Allen Holub on TDD/BDD as example based design: https://twitter.com/allenholub/status/1213139013604978688
+* "Test-Driven Development (TDD) is frequently misunderstood in ways that cause needless struggle, delay, and upset." https://twitter.com/qcoding/status/1215362719458779141
+* "Desirable properties of tests": https://twitter.com/GeePawHill/status/1215693091887288321
+* Allen Holub on why TDD isn't testing: https://twitter.com/allenholub/status/1213937824258347008
+* Funny meme https://twitter.com/molly_struve/status/1216075779928395776
