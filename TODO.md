@@ -27,3 +27,9 @@
 * Allen Holub on why TDD isn't testing: https://twitter.com/allenholub/status/1213937824258347008
 * Funny meme https://twitter.com/molly_struve/status/1216075779928395776
 * Jeffries: https://twitter.com/RonJeffries/status/1215625501752090624
+* https://twitter.com/RonJeffries/status/1218539682910429184    Encapsulates central premise: shame comes from being overwhelmed by TDD. By you’ll never be good enough and ashamed to do better. Imposter syndrome manifest.
+* Liz Keogh on TDD as an anchor term: https://twitter.com/lunivore/status/1218866213129981954
+* Geepaw Hill on underplayed reasons for TDD; https://twitter.com/GeePawHill/status/121896540211556352
+* When I wouldn't use TDD: https://twitter.com/RonJeffries/status/1219399710521335809
+* Jay Bazuzi on test pressure: https://twitter.com/jaybazuzi/status/1216213981213278208
+* Presentation from CodeMash on TDD (need to read): https://twitter.com/paulroub/status/1216407457339232269
