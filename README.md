@@ -26,11 +26,26 @@ Messy code? Misunderstandings? Inexperienced? I can help.
 
 In this talk, you'll understand TDD better, how to be more effective, and how to let go of that little voice that says you should do more.
 
+## 100 Chars or less
+
+"I don't do much Test-Driven Development; it's my shame." Let's change this together.
+
+
+
 ## Key Outcomes
 
 * You'll know when you should be using TDD, and when not.
 * You'll understand what "Driven" really means in this context.
 * You'll see a number of practical tips and techniques to stop your tests becoming unmanageable.
+
+## Agenda
+
+The rough agenda (subject to rearrangement) is:
+
+* 5-10 minutes explaining what TDD is and isn't.
+* 10 minutes or so on why people feel the way they do about TDD and why they probably shouldn't
+* 10 minutes on how to use TDD effectively
+* 15 minutes on interactive examples of where people go wrong
 
 
 # History

@@ -1,6 +1,9 @@
 # Possible TODOs.
 
 * framing. Ritualism? How powerful that is? Maybe use coffee as our opener. It’s not addictive but does cause dependence, and ritualistic but biochemically doesn’t do much at all. -- Maybe not.
+* framing. Conversation with Plato in a pub. He's worried about TDD. He knows he can't do it perfectly. Source of shame. Talk reveals how there is no perfect for TDD. Brief divergence somewhere into platonic forms?
+* Possibly mention j-curve of change. Satir curve?
+* Sandi Metz & Katrina Own book 99 bottles of OOP has some great TDD stuff. Re-read
 * Brian Marick on a better style for tests (i.e. don't assert_equal) https://twitter.com/marick/status/1140021311974137857
 * Brian Marick (again) on test data and randomisation being clearer https://twitter.com/marick/status/1140713459988029441
 * Note that randomisation means less predicatable data. That's a good thing. Relationship/meaning is the most important thing. Randomising also means you might find more edge cases that can then be codified. If you'd prefer some predictability, you can always keep the seed constant.
@@ -15,6 +18,7 @@
 * Ron Jeffries. Some overlap wiht above thread https://twitter.com/RonJeffries/status/1208748384963694592
 * Michael Feathers. A set of unit testing rules https://www.artima.com/weblogs/viewpost.jsp?thread=126923
 * Lots on arguments against TDD http://neopragma.com/index.php/2019/09/29/against-tdd/
+* Maybe worth listing the whys? Feedback, design pressure,
 * GeePawHill on why writing the tests before (as opposed to after) matters https://twitter.com/GeePawHill/status/1086748964936994816
 * GeePawHill and Cat Swetel on soft vs hard TDD https://twitter.com/GeePawHill/status/1057032359931973632
 * Test Recycling in TDD: http://claysnow.co.uk/recycling-tests-in-tdd/
@@ -33,3 +37,16 @@
 * When I wouldn't use TDD: https://twitter.com/RonJeffries/status/1219399710521335809
 * Jay Bazuzi on test pressure: https://twitter.com/jaybazuzi/status/1216213981213278208
 * Presentation from CodeMash on TDD (need to read): https://twitter.com/paulroub/status/1216407457339232269
+* Sandi metz on testing: https://www.youtube.com/watch?v=URSWYvyc42M
+* Think this Sandi metz talk might also have some relevant stuff but it's been a while: https://www.youtube.com/watch?v=8bZh5LMaSmE
+* Is TDD dead by Emily Bache? https://www.youtube.com/watch?v=PCEHRFHKZSk
+* Something on the various schools of TDD: london, chicago, that other one by Searls? Good one here: http://coding-is-like-cooking.info/2013/04/the-london-school-of-test-driven-development/
+* Why and when to Mock using libraries. Why I generally dislike mock libraries (and when to use them)
+* Outside in with double loop TDD (Emily Bache): http://coding-is-like-cooking.info/2013/04/outside-in-development-with-double-loop-tdd/
+* Good tests for Gilded Rose Kata (Emily Bache): http://coding-is-like-cooking.info/2013/03/writing-good-tests-for-the-gilded-rose-kata/
+* Boundaries (Gary Bernhardt): https://www.youtube.com/watch?v=eOYal8elnZk
+* Tdd for infra (Rosemary Wang): https://www.youtube.com/watch?v=AAcPuYfVt2c
+* Lots of good bits here: https://www.obeythetestinggoat.com/pages/tdd-resources.html
+* TDD that's now what we meant (Steve Freeman): https://vimeo.com/83960706
+* Thread I started on why people don't use TDD: https://twitter.com/garyfleming/status/1216445078992039937
+* Possibly worth expanding on some of the team dynamics around TDD, especially when some people don't do it.
