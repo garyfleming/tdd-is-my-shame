@@ -37,7 +37,7 @@
 * When I wouldn't use TDD: https://twitter.com/RonJeffries/status/1219399710521335809
 * Jay Bazuzi on test pressure: https://twitter.com/jaybazuzi/status/1216213981213278208
 * Presentation from CodeMash on TDD (need to read): https://twitter.com/paulroub/status/1216407457339232269
-* Sandi metz on testing: https://www.youtube.com/watch?v=URSWYvyc42M
+* Sandi metz on testing. 5.21 argues that unit tests should be Thorough, Stable, Fast, Few. 9.48 introduces a grid with 6 different testing patterns: https://www.youtube.com/watch?v=URSWYvyc42M
 * Think this Sandi metz talk might also have some relevant stuff but it's been a while: https://www.youtube.com/watch?v=8bZh5LMaSmE
 * Is TDD dead by Emily Bache? https://www.youtube.com/watch?v=PCEHRFHKZSk
 * Something on the various schools of TDD: london, chicago, that other one by Searls? Good one here: http://coding-is-like-cooking.info/2013/04/the-london-school-of-test-driven-development/
