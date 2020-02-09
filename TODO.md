@@ -3,7 +3,9 @@
 * framing. Ritualism? How powerful that is? Maybe use coffee as our opener. It’s not addictive but does cause dependence, and ritualistic but biochemically doesn’t do much at all. -- Maybe not.
 * framing. Conversation with Plato in a pub. He's worried about TDD. He knows he can't do it perfectly. Source of shame. Talk reveals how there is no perfect for TDD. Brief divergence somewhere into platonic forms?
 * Possibly mention j-curve of change. Satir curve?
+* By me: "TDD is just a tool. It's one of the best I know for a lot of situations. I'd be fine with people not using it if they'd replaced it with something else. Delighted, in fact! But... most devs appear to have replaced it with maybe writing some tests after. Brittle, wasteful, poor."
 * Sandi Metz & Katrina Own book 99 bottles of OOP has some great TDD stuff. Re-read
+* Kent beck: simple rules of design: https://www.martinfowler.com/bliki/BeckDesignRules.html
 * Brian Marick on a better style for tests (i.e. don't assert_equal) https://twitter.com/marick/status/1140021311974137857
 * Brian Marick (again) on test data and randomisation being clearer https://twitter.com/marick/status/1140713459988029441
 * Note that randomisation means less predicatable data. That's a good thing. Relationship/meaning is the most important thing. Randomising also means you might find more edge cases that can then be codified. If you'd prefer some predictability, you can always keep the seed constant.
@@ -19,6 +21,7 @@
 * Michael Feathers. A set of unit testing rules https://www.artima.com/weblogs/viewpost.jsp?thread=126923
 * Lots on arguments against TDD http://neopragma.com/index.php/2019/09/29/against-tdd/
 * Maybe worth listing the whys? Feedback, design pressure,
+* "TDD changed my life" https://twitter.com/_ericelliott/status/1222869590880985088
 * GeePawHill on why writing the tests before (as opposed to after) matters https://twitter.com/GeePawHill/status/1086748964936994816
 * GeePawHill and Cat Swetel on soft vs hard TDD https://twitter.com/GeePawHill/status/1057032359931973632
 * Test Recycling in TDD: http://claysnow.co.uk/recycling-tests-in-tdd/
@@ -47,6 +50,13 @@
 * Boundaries (Gary Bernhardt): https://www.youtube.com/watch?v=eOYal8elnZk
 * Tdd for infra (Rosemary Wang): https://www.youtube.com/watch?v=AAcPuYfVt2c
 * Lots of good bits here: https://www.obeythetestinggoat.com/pages/tdd-resources.html
-* TDD that's now what we meant (Steve Freeman): https://vimeo.com/83960706
+* TDD that's not what we meant (Steve Freeman): https://vimeo.com/83960706
+* Teaching TDD in mobs: https://twitter.com/tottinge/status/1223048720557604864
+* Is TDD old news? https://twitter.com/lisacrispin/status/1222568983968276481
 * Thread I started on why people don't use TDD: https://twitter.com/garyfleming/status/1216445078992039937
 * Possibly worth expanding on some of the team dynamics around TDD, especially when some people don't do it.
+* “show me how to do TDD on this thing that’s already way too complicated” no. Magician and their tricks.
+* Alex Schladebeck: TDD makes the implicit explicit https://twitter.com/alex_schl/status/1225679473262989314
+* Geepawhill on why TDD is relevant to front-end https://twitter.com/GeePawHill/status/1225513388844994561
+* TDD: dead end. No future... except we've been playing with Test-Commit-Revert and Limbo.
+* Rules and heuristics from Sudoku

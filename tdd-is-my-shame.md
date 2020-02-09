@@ -4,6 +4,66 @@ theme: Ostrich, 1
 
 ---
 
+I run a meetup called CodeCraft, that focusses on the craft of writing good software. Don't worry, this isn't a pitch for that meetup: it's in Glasgow, Scotland which I'm guessing is a little far for most of you to go for two hours once a month. [NOTE: if doing this at an agile conference with less technical focus, maybe point that out.]
+
+A few years ago, we were running a session on either mob or pair programming, I don't remember which, but there was an unusual argument that broke out in one of the groups but dissipated before we could intervene and figure out what was wrong.
+
+Afterwards, a few of us went to a nearby pub, given the grey miserable weather, to continue our conversation. One of the attendees, who I'll call Plato, seemed unusually perturbed. When I asked him, what was wrong, he mentioned that he was feeling some pretty severe imposter syndrome after the session. Plato looked deeply uncomfortable, in a way that only a 2500 year old man whose world view has been crushed can. The argument had made him realise something:
+
+"I'm a little ashamed, but I don't TDD as much as I think I should."
+
+There's a *lot* packed into that one little sentence. Layers, and nuance, and meaning. We decided to spend a while dealing with it.
+
+Since that conversation on that night, all those years ago, I've spoken and attended a number of conferences and meetups around the world. As a consultant, I also get to work with a lot of developers of different ages, backgrounds, etc. When I can, I keep asking people the same question:
+
+"Do you TDD?"
+
+Put your hand up if you've do TDD for most of your production code?
+
+The phrasing changes, the context shifts, but I've asked a tonne of developers how and when they TDD. While no-one does it 100% of the time (well, one person claimed to, but we'll introduce him later), one thing that's become very clear to me: the number of developers who routinely do TDD is *miniscule*. Tiny. A fraction of a percent. And it appears to be getting smaller.
+
+Worse, it appears to regularly be accompanied by shame. People feel they ought to do TDD, but they don't, and they often can't articulate why.
+
+---
+
+What is TDD?
+
+Let's start by taking a big question off the table.
+
+---
+
+Why feel shame?
+
+I asked Plato why he felt SHAME specifically.
+
+TODO
+
+Satir
+Felt like
+
+---
+
+Someone else came over... Socrates.
+
+Structuring.
+Sudoku.
+
+
+---
+
+Why do so few developers do it?
+
+Tips for doing it better
+
+- rules of simple design
+- immutability
+
+---
+
+TODO everything below here are from false starts.
+
+---
+
 When I knew I was going to be speaking about TDD, I decided that it would be a good idea to ask as many people as possible, both online and offline, about their experiences of TDD. Did they like it? Did it help? etc
 
 Most of the experienced people I spoke to gave the same answers we've seen many times before, essentially the selling points. That is:
