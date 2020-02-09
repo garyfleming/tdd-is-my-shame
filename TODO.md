@@ -60,3 +60,4 @@
 * Geepawhill on why TDD is relevant to front-end https://twitter.com/GeePawHill/status/1225513388844994561
 * TDD: dead end. No future... except we've been playing with Test-Commit-Revert and Limbo.
 * Rules and heuristics from Sudoku
+* TDD as a core agility issue being broken by manager's who don't undestand: https://twitter.com/allenholub/status/1226573759189880832
