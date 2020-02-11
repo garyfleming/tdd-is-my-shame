@@ -9,13 +9,17 @@ footer: @garyfleming
 
 ![](images/CODE-CRAFT-V2-01-09.svg)
 
-^ I run a meetup called CodeCraft, that focusses on the craft of writing good software. Don't worry, this isn't a pitch for that meetup: it's in Glasgow, Scotland which I'm guessing is a little far for most of you to go for two hours once a month. [NOTE: if doing this at an agile conference with less technical focus, maybe point that out.]
+^ I run a meetup called CodeCraft, that focusses on the craft of writing good software. It was kind of a spin-off from this meetup... Don't worry, this isn't a pitch for that meetup: it's just where the story starts.
 
 ---
 
-I run a meetup called CodeCraft, that focusses on the craft of writing good software. Don't worry, this isn't a pitch for that meetup: it's in Glasgow, Scotland which I'm guessing is a little far for most of you to go for two hours once a month. [NOTE: if doing this at an agile conference with less technical focus, maybe point that out.]
+![](images/CODE-CRAFT-V2-01-09.svg)
 
-A few years ago, we were running a session on either mob or pair programming, I don't remember which, but there was an unusual argument that broke out in one of the groups but dissipated before we could intervene and figure out what was wrong.
+^ A few years ago, we were running a session on either mob or pair programming, I don't remember which, but there was an unusual argument that broke out in one of the groups but dissipated before we could intervene and figure out what was wrong.
+
+---
+
+![](images/CODE-CRAFT-V2-01-09.svg)
 
 Afterwards, a few of us went to a nearby pub, given the grey miserable weather, to continue our conversation. One of the attendees, who I'll call Plato, seemed unusually perturbed. When I asked him, what was wrong, he mentioned that he was feeling some pretty severe imposter syndrome after the session. Plato looked deeply uncomfortable, in a way that only a 2500 year old man whose world view has been crushed can. The argument had made him realise something:
 
