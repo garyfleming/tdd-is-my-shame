@@ -61,3 +61,9 @@
 * TDD: dead end. No future... except we've been playing with Test-Commit-Revert and Limbo.
 * Rules and heuristics from Sudoku
 * TDD as a core agility issue being broken by manager's who don't undestand: https://twitter.com/allenholub/status/1226573759189880832
+* Learning can’t be prescriptive. “Do these things and you’ll be a TDDer”. I’ve been running katas and seeing where teams/people get stuck. Helps me see that they need to learn X and Y
+* Allen Holub. Dump the T in TDD. Use example instead: https://twitter.com/allenholub/status/1227049507306778624
+* sudoku bit. Easy puzzles we can do intuitively. Implicit knowledge. Minimal rules. Guesswork. Expert puzzles require more rigour. More rules. At least until we’ve done enough that the moves become more implicit. Analogies to code problems that are very familiar. Need more rigour when doing something harder. Devs often get wrong. Cynefin?
+* Tale of Two TDDers thread: https://twitter.com/gdinwiddie/status/1228697497629011968
+* Refactoring. What it means. Where the name comes from.
+* TDD thead https://twitter.com/GeePawHill/status/1226615510151892993
