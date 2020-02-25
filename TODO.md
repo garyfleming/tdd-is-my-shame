@@ -67,3 +67,4 @@
 * Tale of Two TDDers thread: https://twitter.com/gdinwiddie/status/1228697497629011968
 * Refactoring. What it means. Where the name comes from.
 * TDD thead https://twitter.com/GeePawHill/status/1226615510151892993
+* Jim weirich on testing. Good stuff on mocking https://github.com/jimweirich/presentation_testing_why_dont_we_do_it_like_this/blob/master/pdf/testing.key.pdf
