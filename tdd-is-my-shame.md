@@ -4,6 +4,8 @@ footer: @garyfleming
 [.background-color: #FFF]
 [.hide-footer]
 
+^ TODO ADD WAY MORE CODE EXAMPLES
+
 ![original fit inline](images/easy.jpg)
 
 ^ This is a sudoku puzzle. It's a pretty simple idea that can be quite complicated if you're not used to it. It's a 9x9 grid, separated into 9 3x3 boxes. You solve it by placing the numbers 1-9 exactly once in each column, each row, and each 3x3.
@@ -55,6 +57,18 @@ footer: @garyfleming
 # TDD is My Shame
 ### A Preview
 
+^ My name is... I am a... from... focussing on...
+^ That's my twitter handle. If I say something you like and you mistakenly believe I might say other things you'll like, that's the place I'm likely to say them.
+
+
+---
+
+[.header: alignment(left)]
+
+## Part 0:
+## A Journey into Shame
+
+![original](images/man-shame.jpg)
 
 ---
 
@@ -129,7 +143,7 @@ It can be low self-esteem - directing things going wrong at yourself as an almos
 
 ---
 
-> "Shame, for women, is this web of unobtainabd4le, conflicting, competing expectations about who we're supposed to be. And it's a straight-jacket. "
+> "Shame, for women, is this web of unobtainable, conflicting, competing expectations about who we're supposed to be. And it's a straight-jacket. "
 > - Brené Brown
 
 ^ (Read the quote. Pause) I'm sure that might resonate with some of you. For men, it's mostly just one thing.
@@ -160,21 +174,126 @@ It can be low self-esteem - directing things going wrong at yourself as an almos
 
 ![original fit inline](images/easy.jpg)
 
-^ This is a sudoku puzzle. It's a pretty simple idea that can be quite complicated if you're not used to it. It's a 9x9 grid, separated into 9 3x3 boxes. You solve it by placing the numbers 1-9 exactly once in each column, each row, and each 3x3.
+^ TODO Remind people of the rules. Give a quick strategy for beginners
 
 ---
 
-<!--
+## Part 1. What is TDD?
+
+^ TODO spent a long time not talking about it
+
 ---
 
-What is TDD?
+* Testing practice... Not really
+* Design Strategy... Maybe
+* Development practice... Probably
 
-Let's start by taking a big question off the table.
+^ TODO write some thoughts on this
 
-TODO bunch of stuff explaing the big picture, then the Liz keogh stuff about how it's an anchor term. and Rob jeffries on how things get smushed on top of each other
+---
 
--->
+![original fit](images/dev-practice.png)
 
+
+^ TODO I like this by Antony Marcano. It's about Development. Because professional soft dev is more than just writing code. It's harmfully narrow in many ways when devs think their job is only churning out code. That's the last thing you should do. Code is a liability. Write as little as you can, and ensure the code you do write is well-designed and well-tested.
+
+---
+
+# No One True TDD
+
+^ I also explained that there really isn't one thing called TDD. We like to pretend that TDD is a thing and you can just do it... but that's not quite true. The practices involved and the processes and the people doing it all... mush together. RJ says That's how ideas are. Mushy. It's like a bunch of different play-doh making up something.
+
+---
+
+# Anchor Terms
+
+^ Liz Keogh describes TDD as an anchor term. It's a useful term for searching and tying these mushy ideas together. If you want to know more about ideas in the space, searching for TDD will probably tell you something useful; which is better than trying to find all the individual practices.
+
+---
+
+# Unit tests
+
+
+^ TDD isn't unit testing but you helps to understand it first. What is a unit? Turns out most of the folk around at that point in time kinda disagree with each other. It's a mushy idea. What they do agree on?
+
+---
+
+# Unit tests
+
+* No Database
+* No network
+* No Filesystem
+* Must be Parallelisable
+* Can't have any weird environment set-up
+
+^ (explain each). What's the intent here? That it's fast and isolated. That it's reliable and deterministic. That it's repeatable. Flaky unit tests are worse than no unit tests.
+
+---
+
+# Metz Says
+
+* Thorough
+* Stable
+* Fast
+* Few
+
+^ Sandi Metz (POODR) says they should be thorough (logical and complete), Stable (doesn't break when impl details change, without changing behaviour), Fast (don't get run otherwise, lose value), Few (as small as possible to express ourselves)
+
+---
+
+# Test First / Test-Driven Development
+
+^ Now we know what a unit test is, in some vague sense, what is TDD? Just writing the tests first? Well, no, writing the tests first might imply you have already got a fully formed design in mind. Meanwhile, TDD practioners will make it clear that while upfront thinking and design is usually required, they want to allow the forming of the tests to help them do a significant chunk of that. I don't want to be too pedantic or pernickety about this distinction, though.
+^ TODO graphic showing thinking and design happening through tests...
+
+
+---
+
+# The basics: Red - Green - Refactor
+
+^ TODO show a diagram
+^ The most common thing a TDDer will tell a beginner about is the red green refactor loop.
+You start by expressing the thing you'd like the code to do that it doesn't currently do by writing a test. What, not how. Idea, not implementation.
+
+---
+
+# Common gripes: Must. See. Test. Fail
+
+^ TODO marco rogers tweet?
+
+---
+
+# Common gripes: The loop should be much smaller.
+
+^ TODO
+
+
+---
+
+# Common gripes: People think refactoring means rewrite
+
+^ TODO
+
+---
+
+# Common gripes: People forget to Refactor
+
+^ TODO
+
+---
+
+# Common gripes: Red - Green - Refactor isn't enough
+
+^ TODO not enough Requires thought and judgement.
+
+---
+
+---
+
+
+---
+
+TODO Everything below here might get cut.
 
 ---
 

@@ -68,3 +68,4 @@
 * Refactoring. What it means. Where the name comes from.
 * TDD thead https://twitter.com/GeePawHill/status/1226615510151892993
 * Jim weirich on testing. Good stuff on mocking https://github.com/jimweirich/presentation_testing_why_dont_we_do_it_like_this/blob/master/pdf/testing.key.pdf
+* "You won't believe how old TDD is". Early references to TDD like processes going back as far as 1957. Jerry Weinbrg's first book (1961) makes it clear that's how people thought - https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/
