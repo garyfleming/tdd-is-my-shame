@@ -169,8 +169,11 @@ It can be low self-esteem - directing things going wrong at yourself as an almos
 
 ---
 
+[.text: #000]
 [.background-color: #FFF]
 [.hide-footer]
+
+Easy
 
 ![original fit inline](images/easy.jpg)
 
@@ -178,7 +181,11 @@ It can be low self-esteem - directing things going wrong at yourself as an almos
 
 ---
 
-## Part 1. What is TDD?
+[.header: #FFF, alignment(left)]
+
+## Part 1. Where to begin with TDD?
+
+![](images/puzzled.jpg)
 
 ^ TODO spent a long time not talking about it
 
@@ -288,8 +295,76 @@ You start by expressing the thing you'd like the code to do that it doesn't curr
 
 ---
 
+[.background-color: #FFF]
+[.text: #000]
+[.hide-footer]
+
+Medium
+
+![original fit inline](images/medium.jpg)
+
+^ This is a medium difficulty sudoku. To solve this I might be able to use some of the same tricks. (3rd row from bottom has the 3 in the left square). But that will only get me so far. And slowly. But I'm going to probably using techniques like Last Remaining Cell. Fill in notes for every square, then see where a number only appears once in any cells, rows, boxes.
+
 ---
 
+[.background-color: #FFF]
+[.text: #000]
+[.hide-footer]
+
+Medium
+
+![original fit inline](images/medium.jpg)
+
+^ The interesting thing here is that this new technique is quite powerful. I didn't need to know it for the Easy puzzles, but now I do I can solve the easy puzzles faster.
+
+---
+
+[.header: #3f31e2, alignment(left)]
+[.hide-footer]
+
+# Part 2: What now?
+
+
+![original](images/directions.jpg)
+
+^ So we understand some of the basics of TDD, the beginner stuff, so what now? What direction should we go in? Honestly, there are many directions. Let's pick one...
+
+
+---
+
+# Beck's Four Elements Of Simple Design
+
+* Passes The Tests
+* Reveals Intention
+* No Duplication
+* Fewest Elements
+
+^ (Explain each). Ordered. Passes tests is obvious. Reveals intention - easy to understand, well-named, communicated. No duplication - DRY. Fewest elements - remove anything that doesn't serve the others (KISS)
+
+---
+
+# What does this actually do?
+
+* Passes The Tests
+* **Reveals Intention**
+* **No Duplication**
+* Fewest Elements
+
+^ There's a debate on the order of the middle two elements. JB Rainsberger has a great article in which he goes over this in some detail. You can see his whole argument online but the TL;DR is...
+
+---
+
+> Remove Duplication and Improve names in small cycles
+
+^ TODO put in a picture of JB Rainsbergers test dynamo
+^ Just doing this on repeat will improve your code. Personally, I'm a sucker for better naming.
+
+
+---
+
+![original fit](images/naming.jpg)
+
+^ More often than not, if you want to convey intent in your design, you need to improve your names. To be clear, I don't think any of the names here are very good. They're far too abstract. How often have you seen a Manager class? Or a Process func? Manage and process what?
 
 ---
 
