@@ -372,7 +372,7 @@ Medium
 
 ---
 
-# But, Gary, It's Slow...
+# But, It's Sloooooow...
 
 ^ A pretty common reaction. It's slow. Writing the tests is overhead. Having to refactor everywhere is waste.
 Is it though? For relatively straightforward cases, you might be able to write the initial code faster, granted, but will it be as maintainable? As well designed? Will it have more or less bugs? Will you spend more time later debugging?
@@ -389,7 +389,84 @@ Is it though? For relatively straightforward cases, you might be able to write t
 
 ---
 
+# Don't do it.
+
+^ There are also plenty of times when doing TDD might not make sense. I've been told more than once about people trying to write tests for the IDE-generated getters/setters. To be clear, if your code is that trivial, you probably don't need any tests; coverage be damned.
+
 ---
+
+# Ron Jeffries Doesn't TDD When...
+
+* ...It's simple/throwaway
+* ...There isn't a decent tool at hand
+* ...The output is visual
+* ...He can't think how to test something
+
+^ That first case is often when we're spiking something or doing it exactly once. The overhead in writing tests isn't going to beat the maintenance cost, because there is no maintenance cost for code you'll throw away. Be wary of People saying that it'll only be short term..
+
+---
+
+# Ron Jeffries Doesn't TDD When...
+
+* ...It's simple/throwaway
+* ...There isn't a decent tool at hand
+* ...The output is visual
+* ...He can't think how to test something
+
+^ There isnt a tool. You might be using some odd toolset. The example he uses is doing Codea on his iPad... even that though now has CodeaUnit. This is rarely a viable reason these days, but it can happen.
+
+---
+
+# Ron Jeffries Doesn't TDD When...
+
+* ...It's simple/throwaway
+* ...There isn't a decent tool at hand
+* ...The output is visual
+* ...He can't think how to test something
+
+^ If you're generating graphics, it's hard to do any meaningful assertions on then that won't end up being brittle under the slightest of changes. Here, I tend to see the graphic like I see network interactions: I'll isolate as much business logic as I can from it, and push the rendering to the edge of the system; untested.
+
+---
+
+# Ron Jeffries Doesn't TDD When...
+
+* ...It's simple/throwaway
+* ...There isn't a decent tool at hand
+* ...The output is visual
+* ...He can't think how to test something
+
+^ Sometimes, especially for those less experienced, it's hard to see how to test it. You should still work at this, you should still aim to improve this over time, but you know what you know. This isn't an excuse. It will only go so far. Do what you can.
+
+---
+
+# Other reasons to not...
+
+* ...You prefer larger methods, with less focus
+* ...You don't know how to keep the test loop small
+* ...You don't know how your system should behave
+
+^ These are the main other reasons I could find not to. (TODO larger methods...) Big test loops don't help as much, but practice is what makes this work eventually. You don't know how the system should behave: it's hard to write a test for something when you can't make any meaningful assertions. This might happen in Machine Learning, for example. Try to isolate those parts from the rest of your system.
+
+
+
+---
+
+[.background-color: #FFF]
+[.text: #000]
+[.hide-footer]
+
+---
+
+[.background-color: #FFF]
+[.text: #000]
+[.hide-footer]
+
+HARD
+
+![original fit inline](images/hard.jpg)
+
+^ It's hard to see the subtle differences here from medium, but there are fewer numbers still. At this point you have to fill-in notes for every square, and use slightly different rules like search for pairs in each row, column, grid, to allow for eliminations. You're playing with what you don't know more than what you know. Whittling information down until there's only one possible outcome.
+
 ----
 
 ---
@@ -400,7 +477,7 @@ Is it though? For relatively straightforward cases, you might be able to write t
 [.header: #3f31e2, alignment(left)]
 [.hide-footer]
 
-# Part ?: What now?
+# Part 3: What now?
 
 
 ![original](images/directions.jpg)
@@ -443,6 +520,51 @@ Is it though? For relatively straightforward cases, you might be able to write t
 ![original fit](images/naming.jpg)
 
 ^ More often than not, if you want to convey intent in your design, you need to improve your names. To be clear, I don't think any of the names here are very good. They're far too abstract. How often have you seen a Manager class? Or a Process func? Manage and process what?
+
+---
+
+[.background-color: #FFF]
+[.text: #000]
+[.hide-footer]
+
+---
+
+[.background-color: #FFF]
+[.text: #000]
+[.hide-footer]
+
+EXPERT
+
+![original fit inline](images/expert.jpg)
+
+^ So what does it take to solve an expert level sudoku puzzle like this? It takes all the tools from before, and a few rare specialised tools that you bring out every once in a while, rarely. Bowman's Bingo. The Y-Wing. Other oddities with weird names.
+
+---
+
+
+[.background-color: #FFF]
+[.text: #000]
+[.hide-footer]
+
+EXPERT
+
+* Learning
+* Studying
+* Seeking New tools
+* Time
+* Deliberate practice
+
+^ But you get there with ... And this is no different than TDD. Don't be ashamed of where you are. You're good enough. But know that if you can put in place these things, you *can* become an expert
+
+
+---
+
+# Thank You
+## @garyfleming
+
+![original fit right](images/shoulder-cat.jpg)
+
+
 
 ---
 
