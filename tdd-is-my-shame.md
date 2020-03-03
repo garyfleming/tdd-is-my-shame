@@ -347,10 +347,60 @@ Medium
 
 ---
 
+[.background-color: #FFF]
+[.text: #000]
+[.header:  alignment(left)]
+[.hide-footer]
+
+# Part 2: Not Now
+
+![original right fit](images/shush.jpg)
+
+^ So, that's the basics of TDD. A starting point, and some of the common issues. Let's talk about some of the common issues people have with TDD and when you should maybe not do it.
+
+---
+
+![original fit](images/no-gods.jpg)
+
+^ Let's be clear: I'm not dogmatic. If TDD is the wrong tool for the job, you shouldn't use it. Replace it with something else. A major issue I see, though, is developer's don't seem to replace it with anything. It's mostly haphazard design, unnecessary code, and maybe some tests added later. There's no real practice.
+
+---
+
+![original ](images/fence.jpg)
+
+^ In the same way that if you had to build a fence, and you did it by chopping up bits of wood, digging some of the holes, nailing some of the wood together, maybe measuring part of the boundary, trying to put the wood in the holes, ripping part of it off because it was the wrong size, realising there's still big chunks of boundary unfenced, going to a shop to get more wood, and doing that again... that's not really a practice either.
+
+---
+
+# But, Gary, It's Slow...
+
+^ A pretty common reaction. It's slow. Writing the tests is overhead. Having to refactor everywhere is waste.
+Is it though? For relatively straightforward cases, you might be able to write the initial code faster, granted, but will it be as maintainable? As well designed? Will it have more or less bugs? Will you spend more time later debugging?
+
+---
+
+# Satir(ish)
+
+
+![inline original fit](images/curve.jpg)
+
+^ Another reason people think it's slow is because they're inexperienced. Change takes time...
+^ TODO explain the changes
+
+---
+
+---
+----
+
+---
+
+
+---
+
 [.header: #3f31e2, alignment(left)]
 [.hide-footer]
 
-# Part 2: What now?
+# Part ?: What now?
 
 
 ![original](images/directions.jpg)
