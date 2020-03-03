@@ -84,9 +84,9 @@ footer: @garyfleming
 
 ---
 
-# Pub / Plato
+# Pub / Paul
 
-^ Afterwards, a few of us went to a nearby pub, given the grey miserable weather, to continue our conversation. One of the attendees, who I'll call Plato, seemed unusually perturbed. When I asked him, what was wrong, he mentioned that he was feeling some pretty severe imposter syndrome after the session. Plato looked deeply uncomfortable, in a way that only a 2500 year old man whose world view has been crushed can. The argument had made him realise something:
+^ Afterwards, a few of us went to a nearby pub, given the grey miserable weather, to continue our conversation. One of the attendees, who I'll call Paul, seemed unusually perturbed. When I asked him, what was wrong, he mentioned that he was feeling some pretty severe imposter syndrome after the session. Paul looked deeply uncomfortable, in a way that only someone whose world view has been crushed can. The argument had made him realise something:
 
 ---
 
@@ -169,6 +169,11 @@ It can be low self-esteem - directing things going wrong at yourself as an almos
 
 ---
 
+[.background-color: #FFF]
+[.hide-footer]
+
+---
+
 [.text: #000]
 [.background-color: #FFF]
 [.hide-footer]
@@ -187,7 +192,7 @@ Easy
 
 ![](images/puzzled.jpg)
 
-^ TODO spent a long time not talking about it
+^ I've spent a while not talking about TDD specifically, so it's time to do that. There's lots of places we could begin... but let's begin here..
 
 ---
 
@@ -195,20 +200,21 @@ Easy
 * Design Strategy... Maybe
 * Development practice... Probably
 
-^ TODO write some thoughts on this
+^ Is it a testing practice? Not really. Tests aren't the point in and of themselves. They're useful as an outcome, but that's it. Is it a design strategy? Yeah, maybe. It's a starting point, but probably not sufficient. Is it a development practice? Well..
 
 ---
 
 ![original fit](images/dev-practice.png)
 
 
-^ TODO I like this by Antony Marcano. It's about Development. Because professional soft dev is more than just writing code. It's harmfully narrow in many ways when devs think their job is only churning out code. That's the last thing you should do. Code is a liability. Write as little as you can, and ensure the code you do write is well-designed and well-tested.
+^  I like this by Antony Marcano. It's about Development. Because professional soft dev is more than just writing code. It's harmfully narrow in many ways when devs think their job is only churning out code. That's the last thing you should do. Code is a liability. Write as little as you can, and ensure the code you do write is well-designed and well-tested.
 
 ---
 
 # No One True TDD
 
-^ I also explained that there really isn't one thing called TDD. We like to pretend that TDD is a thing and you can just do it... but that's not quite true. The practices involved and the processes and the people doing it all... mush together. RJ says That's how ideas are. Mushy. It's like a bunch of different play-doh making up something.
+^ TODO one true scotsman pic
+^ There really isn't one thing called TDD. We like to pretend that TDD is a thing and you can just do it... but that's not quite true. The practices involved and the processes and the people doing it all... mush together. RJ says That's how ideas are. Mushy. It's like a bunch of different play-doh making up something.
 
 ---
 
@@ -251,12 +257,13 @@ Easy
 # Test First / Test-Driven Development
 
 ^ Now we know what a unit test is, in some vague sense, what is TDD? Just writing the tests first? Well, no, writing the tests first might imply you have already got a fully formed design in mind. Meanwhile, TDD practioners will make it clear that while upfront thinking and design is usually required, they want to allow the forming of the tests to help them do a significant chunk of that. I don't want to be too pedantic or pernickety about this distinction, though.
+The two are entwined coding and testing backwards and forward to form design
 ^ TODO graphic showing thinking and design happening through tests...
 
 
 ---
 
-# The basics: Red - Green - Refactor
+## The basics: Red - Green - Refactor
 
 ^ TODO show a diagram
 ^ The most common thing a TDDer will tell a beginner about is the red green refactor loop.
@@ -264,34 +271,55 @@ You start by expressing the thing you'd like the code to do that it doesn't curr
 
 ---
 
-# Common gripes: Must. See. Test. Fail
+## Common gripes: Must. See. Test. Fail
 
-^ TODO marco rogers tweet?
+![original fit inline](images/see-test-fail.png)
+
+^ You must see your test fail
 
 ---
 
-# Common gripes: The loop should be much smaller.
+## Common gripes: The loop should be much smaller.
 
 ^ TODO
 
 
 ---
 
-# Common gripes: People think refactoring means rewrite
+## Common gripes: People think refactoring means rewrite
 
-^ TODO
-
----
-
-# Common gripes: People forget to Refactor
-
-^ TODO
+^ TODO Image of factoring. Talk about how I've been teaching this recently
 
 ---
 
-# Common gripes: Red - Green - Refactor isn't enough
+## Common gripes: People forget to Refactor
+
+^ TODO people skip refactoring because they're motivated by getting a requirement done. Also people don't refacor tests
+
+---
+
+## Common gripes: Red - Green - Refactor isn't enough
 
 ^ TODO not enough Requires thought and judgement.
+
+---
+
+## Twist: Selection and Naming
+
+^ TODO insert these into the red-green-refactor diagram
+^ Red green refactor are also the wrong place to start IMHO. Beginners often forget to clearly select the requirement they're going to implement, and then to name the test appropraitely. As their understanding changes, they can still refactor this, but not doing so upfront is a GRAVE MISTAKE
+^ Cache invalidation/Naming -- Phil Karlton
+
+---
+
+## Twist: Selection and Naming
+
+# ☠️
+
+---
+
+[.background-color: #FFF]
+[.hide-footer]
 
 ---
 
