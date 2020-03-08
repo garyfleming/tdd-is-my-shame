@@ -1,5 +1,17 @@
 # Possible TODOs.
 
+
+## Feedback
+
+* Strengthen the sudoku frame. Explicitly call out what is happening at each level. Push forward, introduce rules, be methodical, specialise? Tell this through MY journey. Just talking about what You do at each level is unclear and impersonal
+* Use the phrase "the red-green-refactor lie". Add the diagram
+* Maybe add some code!
+* Bake in a better answer to the "Isn't it just personal preference?" question
+* Tone needs to change. Currently a little ranty. Try more positive framing.
+
+
+## Research links
+
 * framing. Ritualism? How powerful that is? Maybe use coffee as our opener. It’s not addictive but does cause dependence, and ritualistic but biochemically doesn’t do much at all. -- Maybe not.
 * framing. Conversation with Plato in a pub. He's worried about TDD. He knows he can't do it perfectly. Source of shame. Talk reveals how there is no perfect for TDD. Brief divergence somewhere into platonic forms?
 * Possibly mention j-curve of change. Satir curve?
@@ -69,3 +81,5 @@
 * TDD thead https://twitter.com/GeePawHill/status/1226615510151892993
 * Jim weirich on testing. Good stuff on mocking https://github.com/jimweirich/presentation_testing_why_dont_we_do_it_like_this/blob/master/pdf/testing.key.pdf
 * "You won't believe how old TDD is". Early references to TDD like processes going back as far as 1957. Jerry Weinbrg's first book (1961) makes it clear that's how people thought - https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/
+* gdinwiddie: speed and tdd: https://twitter.com/gdinwiddie/status/1229411688568541190
+* Geepawhill deep dives on "our branching logic": https://twitter.com/GeePawHill/status/1097261666818052097
