@@ -3,8 +3,19 @@ footer: @garyfleming
 
 [.background-color: #FFF]
 [.hide-footer]
+[.header: #000]
 
 ^ TODO ADD WAY MORE CODE EXAMPLES
+
+# TDD Is My Shame
+
+![original fit ](images/easy.jpg)
+
+
+---
+
+[.background-color: #FFF]
+[.hide-footer]
 
 ![original fit inline](images/easy.jpg)
 
@@ -23,7 +34,7 @@ footer: @garyfleming
 ---
 
 
-[.background-color: #000]
+[.background-color: #FFF]
 [.hide-footer]
 
 ![original fit inline](images/expert.jpg)
@@ -33,7 +44,7 @@ footer: @garyfleming
 ---
 
 [.background-color: #FFF]
-[.quote: #00]
+[.quote: #000]
 [.hide-footer]
 
 ![ fit ](images/bart.jpg)
@@ -467,10 +478,6 @@ HARD
 
 ^ It's hard to see the subtle differences here from medium, but there are fewer numbers still. At this point you have to fill-in notes for every square, and use slightly different rules like search for pairs in each row, column, grid, to allow for eliminations. You're playing with what you don't know more than what you know. Whittling information down until there's only one possible outcome.
 
-----
-
----
-
 
 ---
 
@@ -482,7 +489,7 @@ HARD
 
 ![original](images/directions.jpg)
 
-^ So we understand some of the basics of TDD, the beginner stuff, so what now? What direction should we go in? Honestly, there are many directions. Let's pick one...
+^ I wanted to make sure I covered some more intermediate/advanced topics. There are so many places we could go from here.  Writing this talk was hard because I filled a fairly large whiteboard with post-its of different possibilities.
 
 
 ---
@@ -494,7 +501,7 @@ HARD
 * No Duplication
 * Fewest Elements
 
-^ (Explain each). Ordered. Passes tests is obvious. Reveals intention - easy to understand, well-named, communicated. No duplication - DRY. Fewest elements - remove anything that doesn't serve the others (KISS)
+^  Key to how practitioners operate the TDD loop. (Explain each). Ordered. Passes tests is obvious. Reveals intention - easy to understand, well-named, communicated. No duplication - DRY. Fewest elements - remove anything that doesn't serve the others (KISS)
 
 ---
 
@@ -512,14 +519,41 @@ HARD
 > Remove Duplication and Improve names in small cycles
 
 ^ TODO put in a picture of JB Rainsbergers test dynamo
-^ Just doing this on repeat will improve your code. Personally, I'm a sucker for better naming.
+^ Just doing this on repeat will improve your code. I'd urge some caution about removing duplication too early (I'll take short term duplication over the wrong abstraction any day). Personally, I'm a sucker for better naming. Every time I go round the loop I try to think hard about the appropriateness of the names I've used/
 
 
 ---
 
+[.hide-footer]
+
 ![original fit](images/naming.jpg)
 
-^ More often than not, if you want to convey intent in your design, you need to improve your names. To be clear, I don't think any of the names here are very good. They're far too abstract. How often have you seen a Manager class? Or a Process func? Manage and process what?
+^ To be clear, here are a bunch of names that are poor choices, more often thann not. They're far too abstract. How often have you seen a Manager class? Or a Process func? Manage and process what?
+
+---
+
+# Good names
+
+* ...avoid unnecessary ambiguity
+* ...are just concise enough to convey the relavent info and no more
+* ...use the shared domain language as much as possible.
+
+^ Avoid the weak nouns/verbs onn the previous slide where possible.
+
+---
+
+# TIME CHECK
+
+^ If you're seeing this slide, I've flubbed somewhere.. This is the point where I check to see if I've got time for the advanced bits
+^ TODO I've got a specific idea... build up from a bad example, to a better named example, to one that uses better assertions, to an example that exemplifies the relationship, to one that uses random data
+
+---
+
+# A Neat Trick
+
+![inline fit](images/assert.png)
+
+^ One neat trick I'd been doing a version of for a while but I saw better articulated by Brian Marick. Let's think about what's being said. Equality encourages actual values to be compared, rather than the relationships and meanings. Predicates are the superior choice here.
 
 ---
 
