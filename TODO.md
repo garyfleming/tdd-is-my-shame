@@ -83,3 +83,5 @@
 * "You won't believe how old TDD is". Early references to TDD like processes going back as far as 1957. Jerry Weinbrg's first book (1961) makes it clear that's how people thought - https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/
 * gdinwiddie: speed and tdd: https://twitter.com/gdinwiddie/status/1229411688568541190
 * Geepawhill deep dives on "our branching logic": https://twitter.com/GeePawHill/status/1097261666818052097
+* GeePawHill on secondary refactorings in TDD: https://twitter.com/GeePawHill/status/1239252920807415808
+* Elisabeth hendrickson on why she loves TDD: https://twitter.com/testobsessed/status/1231264781299879936
