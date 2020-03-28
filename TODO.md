@@ -85,3 +85,4 @@
 * Geepawhill deep dives on "our branching logic": https://twitter.com/GeePawHill/status/1097261666818052097
 * GeePawHill on secondary refactorings in TDD: https://twitter.com/GeePawHill/status/1239252920807415808
 * Elisabeth hendrickson on why she loves TDD: https://twitter.com/testobsessed/status/1231264781299879936
+* Geepawhill "[TDD] feels good right when I do it": https://twitter.com/GeePawHill/status/1242493433945755655
