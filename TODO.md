@@ -86,3 +86,4 @@
 * GeePawHill on secondary refactorings in TDD: https://twitter.com/GeePawHill/status/1239252920807415808
 * Elisabeth hendrickson on why she loves TDD: https://twitter.com/testobsessed/status/1231264781299879936
 * Geepawhill "[TDD] feels good right when I do it": https://twitter.com/GeePawHill/status/1242493433945755655
+* gdinwiddie: the ordering of tests: https://twitter.com/gdinwiddie/status/1244649593268244480
