@@ -87,3 +87,5 @@
 * Elisabeth hendrickson on why she loves TDD: https://twitter.com/testobsessed/status/1231264781299879936
 * Geepawhill "[TDD] feels good right when I do it": https://twitter.com/GeePawHill/status/1242493433945755655
 * gdinwiddie: the ordering of tests: https://twitter.com/gdinwiddie/status/1244649593268244480
+* Code too simple to test: https://twitter.com/dtanzer/status/1249926799456374784
+* Refactoring with Clare Sudbery: https://martinfowler.com/articles/class-too-large.html
