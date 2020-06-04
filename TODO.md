@@ -89,3 +89,4 @@
 * gdinwiddie: the ordering of tests: https://twitter.com/gdinwiddie/status/1244649593268244480
 * Code too simple to test: https://twitter.com/dtanzer/status/1249926799456374784
 * Refactoring with Clare Sudbery: https://martinfowler.com/articles/class-too-large.html
+* Bring your brain to the keyboard. TDD is not abdication. Technique, not ritualism.
