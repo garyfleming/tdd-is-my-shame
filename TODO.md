@@ -5,10 +5,10 @@
 
 * Strengthen the sudoku frame. Explicitly call out what is happening at each level. Push forward, introduce rules, be methodical, specialise? Tell this through MY journey. Just talking about what You do at each level is unclear and impersonal
 * Use the phrase "the red-green-refactor lie". Add the diagram
-* Maybe add some code!
+* Maybe add some code!  ADD WAY MORE CODE EXAMPLES
 * Bake in a better answer to the "Isn't it just personal preference?" question
 * Tone needs to change. Currently a little ranty. Try more positive framing.
-
+* Title slide after cold open needs graphic
 
 ## Research links
 

@@ -5,14 +5,12 @@ footer: @garyfleming
 [.hide-footer]
 [.header: #000]
 
-^ TODO ADD WAY MORE CODE EXAMPLES
-
-# TDD Is My Shame
+<!-- # TDD Is My Shame
 
 ![original fit ](images/easy.jpg)
 
 
----
+--- -->
 
 [.background-color: #FFF]
 [.hide-footer]
@@ -66,7 +64,6 @@ footer: @garyfleming
 ---
 
 # TDD is My Shame
-### A Preview
 
 ^ My name is... I am a... from... focussing on...
 ^ That's my twitter handle. If I say something you like and you mistakenly believe I might say other things you'll like, that's the place I'm likely to say them.
@@ -85,7 +82,7 @@ footer: @garyfleming
 
 ![](images/CODE-CRAFT-V2-01-09.svg)
 
-^ I run a meetup called CodeCraft, that focusses on the craft of writing good software. It was kind of a spin-off from this meetup... Don't worry, this isn't a pitch for that meetup: it's just where the story starts.
+^ I run a meetup called CodeCraft, that focusses on the craft of writing good software.  Don't worry, this isn't a pitch for that meetup: it's just where the story starts.
 
 ---
 
@@ -193,7 +190,7 @@ Easy
 
 ![original fit inline](images/easy.jpg)
 
-^ TODO Remind people of the rules. Give a quick strategy for beginners
+^ So. This is an easy Sudoku. The strategy you use... the one I used... that worked for me was simple: scan the grid looking for the only gaps a number could go in, over and over. In column 2, row 4, there's a 1. Why? Other 1s stop it appearing elsewhere. Simple scanning, over and over.
 
 ---
 
@@ -369,6 +366,8 @@ Medium
 
 ^ So, that's the basics of TDD. A starting point, and some of the common issues. Let's talk about some of the common issues people have with TDD and when you should maybe not do it.
 
+^ What issues do you have with TDD?
+
 ---
 
 ![original fit](images/no-gods.jpg)
@@ -476,7 +475,7 @@ HARD
 
 ![original fit inline](images/hard.jpg)
 
-^ It's hard to see the subtle differences here from medium, but there are fewer numbers still. At this point you have to fill-in notes for every square, and use slightly different rules like search for pairs in each row, column, grid, to allow for eliminations. You're playing with what you don't know more than what you know. Whittling information down until there's only one possible outcome.
+^ It's hard to see the subtle differences here from medium, but there are fewer numbers still. At this point you might fill-in notes for every square, and use slightly different rules like search for pairs in each row, column, grid, to allow for eliminations. You're playing with what you don't know more than what you know. Whittling information down until there's only one possible outcome.
 
 
 ---
@@ -528,7 +527,7 @@ HARD
 
 ![original fit](images/naming.jpg)
 
-^ To be clear, here are a bunch of names that are poor choices, more often thann not. They're far too abstract. How often have you seen a Manager class? Or a Process func? Manage and process what?
+^ To be clear, here are a bunch of names that are poor choices, more often than not. They're far too abstract. How often have you seen a Manager class? Or a Process func? Manage and process what?
 
 ---
 
