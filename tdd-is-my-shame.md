@@ -630,5 +630,6 @@ EXPERT
 
 # Thank You
 ## @garyfleming
+## bit.ly/tdd-shame
 
 ![original fit right](images/shoulder-cat.jpg)
