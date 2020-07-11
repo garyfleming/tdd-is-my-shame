@@ -63,7 +63,11 @@ footer: @garyfleming
 
 ---
 
+[.header: #363]
+
 # TDD is My Shame
+
+![original](images/red-green-refactor.jpg)
 
 ^ My name is... I am a... from... focussing on...
 ^ That's my twitter handle. If I say something you like and you mistakenly believe I might say other things you'll like, that's the place I'm likely to say them.
@@ -271,11 +275,43 @@ The two are entwined coding and testing backwards and forward to form design
 
 ---
 
-## The basics: Red - Green - Refactor
+# The basics: Red - Green - Refactor
 
-^ TODO show a diagram
+![original fit inline](images/red-green-refactor.jpg)
+
 ^ The most common thing a TDDer will tell a beginner about is the red green refactor loop.
 You start by expressing the thing you'd like the code to do that it doesn't currently do by writing a test. What, not how. Idea, not implementation.
+
+---
+
+# The basics: Red 
+
+![original fit inline](images/red-green-refactor.jpg)
+
+* Assertion Failure
+* Unexpected Exceptions
+* Missing code
+
+^ Pretty sure I had a 4th one but I can't remember it :shrug:
+
+---
+
+# The basics: Green 
+
+![original fit inline](images/red-green-refactor.jpg)
+
+^ Just enough code to stop the red thing. No more.
+
+---
+
+# The basics: Refactor 
+
+![original fit inline](images/factoring.jpg)
+
+Change code without changing functionality.
+
+
+
 
 ---
 
