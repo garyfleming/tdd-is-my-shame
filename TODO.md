@@ -82,3 +82,4 @@
 * Refactoring with Clare Sudbery: https://martinfowler.com/articles/class-too-large.html
 * Bring your brain to the keyboard. TDD is not abdication. Technique, not ritualism.
 * Geepaw again on microtest TDD https://twitter.com/GeePawHill/status/1283048749678374914
+* Tim Ottinger on TDD not being unit testing or test coverage: https://twitter.com/tottinge/status/1282383291186806785
