@@ -81,3 +81,4 @@
 * Code too simple to test: https://twitter.com/dtanzer/status/1249926799456374784
 * Refactoring with Clare Sudbery: https://martinfowler.com/articles/class-too-large.html
 * Bring your brain to the keyboard. TDD is not abdication. Technique, not ritualism.
+* Geepaw again on microtest TDD https://twitter.com/GeePawHill/status/1283048749678374914
