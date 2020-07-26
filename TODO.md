@@ -3,6 +3,7 @@
 
 ## Research links
 
+* Move the advanced stuff into a new talk: 21st Century TDD.
 * framing. Ritualism? How powerful that is? Maybe use coffee as our opener. It’s not addictive but does cause dependence, and ritualistic but biochemically doesn’t do much at all. -- Maybe not.
 * framing. Conversation with Plato in a pub. He's worried about TDD. He knows he can't do it perfectly. Source of shame. Talk reveals how there is no perfect for TDD. Brief divergence somewhere into platonic forms?
 * Possibly mention j-curve of change. Satir curve?
