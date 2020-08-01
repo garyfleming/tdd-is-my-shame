@@ -4,11 +4,9 @@
 ## Research links
 
 * Move the advanced stuff into a new talk: 21st Century TDD.
-* framing. Ritualism? How powerful that is? Maybe use coffee as our opener. It’s not addictive but does cause dependence, and ritualistic but biochemically doesn’t do much at all. -- Maybe not.
-* framing. Conversation with Plato in a pub. He's worried about TDD. He knows he can't do it perfectly. Source of shame. Talk reveals how there is no perfect for TDD. Brief divergence somewhere into platonic forms?
-* Possibly mention j-curve of change. Satir curve?
-* By me: "TDD is just a tool. It's one of the best I know for a lot of situations. I'd be fine with people not using it if they'd replaced it with something else. Delighted, in fact! But... most devs appear to have replaced it with maybe writing some tests after. Brittle, wasteful, poor."
-* Sandi Metz & Katrina Own book 99 bottles of OOP has some great TDD stuff. Re-read
+
+
+* Sandi Metz & Katrina Owen book "99 bottles of OOP" has some great TDD stuff. Re-read
 * Kent beck: simple rules of design: https://www.martinfowler.com/bliki/BeckDesignRules.html
 * Brian Marick on a better style for tests (i.e. don't assert_equal) https://twitter.com/marick/status/1140021311974137857
 * Brian Marick (again) on test data and randomisation being clearer https://twitter.com/marick/status/1140713459988029441
@@ -84,3 +82,6 @@
 * Bring your brain to the keyboard. TDD is not abdication. Technique, not ritualism.
 * Geepaw again on microtest TDD https://twitter.com/GeePawHill/status/1283048749678374914
 * Tim Ottinger on TDD not being unit testing or test coverage: https://twitter.com/tottinge/status/1282383291186806785
+* Jessica Kerr on coding and puzzles, and how TDD makes the puzzles better https://twitter.com/jessitron/status/1288279620341694470
+* Tobbe Gyllebring on why he considers TDD to be valuable https://twitter.com/drunkcod/status/1288359779396714496
+* Geepawhill on why TDD tests are first-class code https://www.geepawhill.org/2020/07/31/tdd-tests-are-first-class-code/
