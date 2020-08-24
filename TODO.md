@@ -84,4 +84,5 @@
 * Tim Ottinger on TDD not being unit testing or test coverage: https://twitter.com/tottinge/status/1282383291186806785
 * Jessica Kerr on coding and puzzles, and how TDD makes the puzzles better https://twitter.com/jessitron/status/1288279620341694470
 * Tobbe Gyllebring on why he considers TDD to be valuable https://twitter.com/drunkcod/status/1288359779396714496
-* Geepawhill on why TDD tests are first-class code https://www.geepawhill.org/2020/07/31/tdd-tests-are-first-class-code/
+* Geepawhill on why TDD tests are first-class code https://www.geepawhill.org/2020/07/31/tdd-tests-are-first-class-code
+* Allen Holub - TDD not testing strategy. Examples. https://twitter.com/allenholub/status/1292843509045551105

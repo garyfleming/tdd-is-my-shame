@@ -5,12 +5,12 @@ footer: @garyfleming
 [.hide-footer]
 [.header: #000]
 
-<!-- # TDD Is My Shame
+##  🕚TDD Is My Shame Will Begin at 11am EST
 
-![original fit ](images/easy.jpg)
+![ fit ](images/easy.jpg)
 
 
---- -->
+---
 
 [.background-color: #FFF]
 [.hide-footer]
@@ -284,7 +284,7 @@ You start by expressing the thing you'd like the code to do that it doesn't curr
 
 ---
 
-# The basics: Red 
+# The basics: Red
 
 ![original fit inline](images/red-green-refactor.jpg)
 
@@ -296,7 +296,7 @@ You start by expressing the thing you'd like the code to do that it doesn't curr
 
 ---
 
-# The basics: Green 
+# The basics: Green
 
 ![original fit inline](images/red-green-refactor.jpg)
 
@@ -304,7 +304,7 @@ You start by expressing the thing you'd like the code to do that it doesn't curr
 
 ---
 
-# The basics: Refactor 
+# The basics: Refactor
 
 ![original fit inline](images/factoring.jpg)
 
@@ -575,7 +575,7 @@ HARD
 
 ^ Avoid the weak nouns/verbs onn the previous slide where possible.
 
----
+<!-- ---
 
 # TIME CHECK
 
@@ -588,7 +588,7 @@ HARD
 
 ![inline fit](images/assert.png)
 
-^ One neat trick I'd been doing a version of for a while but I saw better articulated by Brian Marick. Let's think about what's being said. Equality encourages actual values to be compared, rather than the relationships and meanings. Predicates are the superior choice here.
+^ One neat trick I'd been doing a version of for a while but I saw better articulated by Brian Marick. Let's think about what's being said. Equality encourages actual values to be compared, rather than the relationships and meanings. Predicates are the superior choice here. -->
 
 ---
 
