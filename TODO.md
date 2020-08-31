@@ -86,3 +86,4 @@
 * Tobbe Gyllebring on why he considers TDD to be valuable https://twitter.com/drunkcod/status/1288359779396714496
 * Geepawhill on why TDD tests are first-class code https://www.geepawhill.org/2020/07/31/tdd-tests-are-first-class-code
 * Allen Holub - TDD not testing strategy. Examples. https://twitter.com/allenholub/status/1292843509045551105
+* Short thread on tdd and value https://twitter.com/jitterted/status/1299916862390595584
