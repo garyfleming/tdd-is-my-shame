@@ -5,7 +5,7 @@ footer: @garyfleming
 [.hide-footer]
 [.header: #000]
 
-##  🕚TDD Is My Shame Will Begin at 11am EST
+## 🕚TDD Is My Shame Will Begin Shortly
 
 ![ fit ](images/easy.jpg)
 
