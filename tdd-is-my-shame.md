@@ -194,7 +194,19 @@ Easy
 
 ![original fit inline](images/easy.jpg)
 
-^ So. This is an easy Sudoku. The strategy you use... the one I used... that worked for me was simple: scan the grid looking for the only gaps a number could go in, over and over. In column 2, row 4, there's a 1. Why? Other 1s stop it appearing elsewhere. Simple scanning, over and over.
+^ So. This is an easy Sudoku. The strategy you use... the one I used... that worked for me was simple: scan the grid looking for the only gaps a number could go in, over and over.
+
+---
+
+[.text: #000]
+[.background-color: #FFF]
+[.hide-footer]
+
+Easy
+
+![original fit inline](images/easy-answer.jpg)
+
+^ In column 2, row 4, there's a 1. Why? Other 1s stop it appearing elsewhere. Simple scanning, over and over.
 
 ---
 
@@ -375,7 +387,7 @@ Medium
 
 ![original fit inline](images/medium.jpg)
 
-^ This is a medium difficulty sudoku. To solve this I might be able to use some of the same tricks. (3rd row from bottom has the 3 in the left square). But that will only get me so far. And slowly. But I'm going to probably using techniques like Last Remaining Cell. Fill in notes for every square, then see where a number only appears once in any cells, rows, boxes.
+^ This is a medium difficulty sudoku. To solve this I might be able to use some of the same tricks. (3rd row from bottom has the 3 in the left square). But that will only get me so far. And slowly. But I'm going to probably using techniques like Last Remaining Cell.
 
 ---
 
@@ -385,9 +397,23 @@ Medium
 
 Medium
 
-![original fit inline](images/medium.jpg)
+![original fit inline](images/medium-answer.jpg)
 
-^ The interesting thing here is that this new technique is quite powerful. I didn't need to know it for the Easy puzzles, but now I do I can solve the easy puzzles faster.
+^ Fill in notes for every square, then see where a number only appears once in any cells, rows, boxes.
+
+---
+
+[.background-color: #FFF]
+[.text: #000]
+[.hide-footer]
+
+Medium
+
+![original fit inline](images/medium-answer2.jpg)
+
+^ unexpectedly this let me fill in the whole box. 1 and 7 appear in one box, so they must be the answers. 4 is the only number to appear in the top right box. 5 must go in the remaining box.
+The interesting thing here is that this new technique is quite powerful. I didn't need to know it for the Easy puzzles, but now I do I can solve the easy puzzles faster.
+
 
 ---
 
@@ -511,7 +537,31 @@ HARD
 
 ![original fit inline](images/hard.jpg)
 
-^ It's hard to see the subtle differences here from medium, but there are fewer numbers still. At this point you might fill-in notes for every square, and use slightly different rules like search for pairs in each row, column, grid, to allow for eliminations. You're playing with what you don't know more than what you know. Whittling information down until there's only one possible outcome.
+^ It's hard to see the subtle differences here from medium, but there are fewer numbers still. At this point you might fill-in notes for every square, and use slightly different rules like search for pairs in each row, column, grid, to allow for eliminations.
+
+---
+
+[.background-color: #FFF]
+[.text: #000]
+[.hide-footer]
+
+HARD
+
+![original fit inline](images/hard-answer.jpg)
+
+^ So I can see the threes in the top boxes can go in these. Top right has 5 possible places
+
+---
+
+[.background-color: #FFF]
+[.text: #000]
+[.hide-footer]
+
+HARD
+
+![original fit inline](images/hard-answer2.jpg)
+
+^ ... but even though I don't know where the 3 is in top-left, all possibilites are in the same row, so I can eliminate any other possible 3s in that row. I don't have an answer yet, but I've removed options.. You're playing with what you don't know more than what you know. Whittling information down until there's only one possible outcome.
 
 
 ---
